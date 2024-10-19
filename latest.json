@@ -1,0 +1,16 @@
+{
+    "version": "0.1.2",
+    "notes": "",
+    "pub_date": "2024-10-19T19:12:19.695Z",
+    "platforms": {
+      "darwin-aarch64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFBFenpSR1lCV2pxOWROakVmVktDUWcxMEZ1OGl5QVRJUmJ1MnVUeTJqckpBbzI5ZXBmaHlCZGVWdXJTd0hlRzdVajZ1N3N2OFZmWnhOZkJick0xOXYvOHE3UDhkR0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5MzY1MDc2CWZpbGU6UXVpY2tieXRlIFRyYW5zZmVyIERldi5hcHAudGFyLmd6CkZSeFJWMGUzWmoyV0xKNHdRTWdyTElBUjhEVTgwOVUvVm40Rm5jRUdOMWp2UWNqcTVUc0RRbWlHZlJwS2VTOXBoTXhBR1V5Qm1MZUh4WVZrS3IvU0NnPT0K",
+        "url": "https://github.com/habbes/quickbyte-releases/releases/download/desktop-transfer-test-2024-10-19-19-08-37-v0.1.2/Quickbyte.Transfer.Dev_aarch64.app.tar.gz"
+      },
+      "darwin-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFBFenpSR1lCV28wMDdLVUlCV0xVZUhQbnVWWXVCOGlVQkYyY3Rac2xzT3ZlUGNoclM0N1FFdWJmMUt6UXp6aDBJUU4zM0FrOUpyNWFab21wN1V1emZIbUVPT0tuWlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5MzY1MTM1CWZpbGU6UXVpY2tieXRlIFRyYW5zZmVyIERldi5hcHAudGFyLmd6Cm1DNEQvdy9GWnZOdmVMU2tRd3FCclQvb0UxWXRNa3JQZHdYd0pnNFhlOWVYMWJweTF0cmVxdDlQZFZyMnF1OG5GUHpBblZlRi81ZitaZEJGVWp1UUFRPT0K",
+        "url": "https://github.com/habbes/quickbyte-releases/releases/download/desktop-transfer-test-2024-10-19-19-08-37-v0.1.2/Quickbyte.Transfer.Dev_x64.app.tar.gz"
+      }
+    }
+  }
+  
